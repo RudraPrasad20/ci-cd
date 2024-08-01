@@ -6,6 +6,11 @@
 .pnp.js
 .yarn/install-state.gz
 
+.git
+.gitignore
+Dockerfile
+.dockerignore
+
 # testing
 /coverage
 
